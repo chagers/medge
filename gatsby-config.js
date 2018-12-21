@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Meadows Edge`,
+    description: `Meadows Edge is a coffee cart serving coffee, espresso, smoothies and snacks, that lives at the North Rim Country Store just outside of the North Rim of the Grand Canyon National Park each summer and Phoenix, Arizona each winter.`,
+    author: `@chagers`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
